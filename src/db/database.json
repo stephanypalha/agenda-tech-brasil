@@ -1294,6 +1294,16 @@
               "cidade": "Foz do Iguaçu",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - Rio de Janeiro - 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
             }
           ]
         },
