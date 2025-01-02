@@ -1255,6 +1255,16 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "SIRENA Conference - 2025",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.instagram.com/sirena.conference/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
@@ -1274,6 +1284,22 @@
               "url": "https://csbc.sbc.org.br/2025/",
               "cidade": "Maceió",
               "uf": "AL",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Florianópolis - 2025",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
               "tipo": "presencial"
             }
           ]
