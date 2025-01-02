@@ -97,6 +97,10 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JULHO:START -->
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
 <!-- JULHO:END -->
+### Agosto
+<!-- AGOSTO:START -->
+- 16: [Hacking Na Web Day - Florianópolis - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Florianópolis/SC_ ![presencial]
+<!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]

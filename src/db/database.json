@@ -1289,6 +1289,22 @@
           ]
         },
         {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Florianópolis - 2025",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "setembro",
           "arquivado": false,
           "eventos": [
