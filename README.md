@@ -91,11 +91,16 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MAIO:START -->
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
+- 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
 ### Julho
 <!-- JULHO:START -->
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
 <!-- JULHO:END -->
+### Agosto
+<!-- AGOSTO:START -->
+- 16: [Hacking Na Web Day - Florianópolis - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Florianópolis/SC_ ![presencial]
+<!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
@@ -104,6 +109,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Outubro
 <!-- OUTUBRO:START -->
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
+- 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
 <!-- ANO2025:END -->
 
