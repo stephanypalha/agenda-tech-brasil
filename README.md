@@ -93,6 +93,9 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
+<!-- JUNHO:START -->
+- 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
+<!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]

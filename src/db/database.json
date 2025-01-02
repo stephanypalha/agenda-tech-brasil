@@ -1269,6 +1269,22 @@
           ]
         },
         {
+          "mes": "junho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Belo Horizonte - 2025",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "julho",
           "arquivado": false,
           "eventos": [
