@@ -1255,6 +1255,16 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "SIRENA Conference - 2025",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.instagram.com/sirena.conference/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
