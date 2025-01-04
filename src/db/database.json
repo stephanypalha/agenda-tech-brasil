@@ -1199,6 +1199,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "VII Meetup PyData Manaus",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.even3.com.br/pydata-manaus/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
                 "20"
