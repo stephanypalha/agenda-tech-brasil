@@ -1378,6 +1378,17 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "CS4CA LatAm Summit",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://latam.cs4ca.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         }

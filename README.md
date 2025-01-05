@@ -9,7 +9,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#dezembro">Dezembro</a></p>
+<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
 
 ## Contribuindo
 
@@ -93,6 +93,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
+### Junho
 <!-- JUNHO:START -->
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 <!-- JUNHO:END -->
@@ -113,6 +114,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:START -->
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
+- 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
 <!-- ANO2025:END -->
 
