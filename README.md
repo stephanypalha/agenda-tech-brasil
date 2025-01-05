@@ -9,7 +9,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#dezembro">Dezembro</a></p>
+<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
 
 ## Contribuindo
 
@@ -86,6 +86,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Abril
 <!-- ABRIL:START -->
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
+- 27 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio
 <!-- MAIO:START -->
@@ -93,6 +94,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
+### Junho
 <!-- JUNHO:START -->
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 <!-- JUNHO:END -->
