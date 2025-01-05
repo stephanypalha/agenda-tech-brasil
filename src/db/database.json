@@ -1211,6 +1211,23 @@
           ]
         },
         {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "SecOps Summit 2025",
+              "data": [
+                "19",
+                "21"
+              ],
+              "url": "https://www.secopssummit.com.br/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "abril",
           "arquivado": false,
           "eventos": [
