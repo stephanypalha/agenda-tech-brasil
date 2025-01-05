@@ -1232,6 +1232,17 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "MiniDebConf Maceió 2025",
+              "data": [
+                "01",
+                "04"
+              ],
+              "url": "https://maceio.mini.debconf.org/",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GopherCon Brasil 2025",
               "data": [
                 "05",
