@@ -1469,6 +1469,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "XibéSec - 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.instagram.com/xibesec/",
+              "cidade": "Belém",
+              "uf": "PA",
+              "tipo": "presencial"
             }
           ]
         },
