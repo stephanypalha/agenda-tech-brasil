@@ -27,6 +27,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 20: [Descrever aplicações e serviços do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937) ![online]
 - 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
 - 22: [Descrever as capacidades de segurança e conformidade do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522) ![online]
+- 22: [FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais](https://www.meetup.com/fiapmeetups/events/305131240) ![online]
 - 27: [Microsoft 365 Para Elas: próximos passos em seu plano de estudos!](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304257628) ![online]
 <!-- JANEIRO:END -->
 ### Fevereiro
