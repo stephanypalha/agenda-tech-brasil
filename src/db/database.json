@@ -6,7 +6,7 @@
       "meses": [
         {
           "mes": "novembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "GambiConf 2024",
@@ -1099,6 +1099,36 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Natal do SouJava na Oracle",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.meetup.com/soujava/events/304890440/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Clube do Livro Java Efetivo",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/javagirlsjug/events/304914291",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Desenvolvendo Functions App Seguros com Identidade Gerenciada e Service Connecto",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304509754",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }
@@ -1113,7 +1143,77 @@
           "arquivado": false,
           "eventos": [
             {
-              "nome": "Descrever as capacidades de segurança e conformidade do Microsoft 365",
+              "nome": "Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Descrever aplicações e serviços do Microsoft 365",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Confraria Web3 - São Paulo",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/304681266",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/php-sp/events/300873764",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Caminhos para uma Carreira em Cloud para Mulheres",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Princípios básicos e conceitos de nuvem",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+            "nome": "Descrever as capacidades de segurança e conformidade do Microsoft 365",
               "data": [
                 "22"
               ],
@@ -1185,6 +1285,32 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "SIRENA Conference - 2025",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.instagram.com/sirena.conference/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "junho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Belo Horizonte - 2025",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
@@ -1209,6 +1335,22 @@
           ]
         },
         {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Florianópolis - 2025",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "setembro",
           "arquivado": false,
           "eventos": [
@@ -1223,6 +1365,16 @@
               "url": "https://sbseg2025.ppgia.pucpr.br/",
               "cidade": "Foz do Iguaçu",
               "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - Rio de Janeiro - 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
               "tipo": "presencial"
             }
           ]
@@ -1243,6 +1395,16 @@
                 "27"
               ],
               "url": "https://2025.pythonbrasil.org.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - São Paulo - 2025",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
