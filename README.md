@@ -69,7 +69,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
 - 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
-- 17, 18 e 19: [TDC 2025 SÃO PAULO](https://thedevconf.com/tdc/2025/) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
