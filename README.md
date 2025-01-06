@@ -37,6 +37,10 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 03: [FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações](https://www.meetup.com/fiapmeetups/events/304541695) ![online]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 <!-- FEVEREIRO:END -->
+### Março
+<!-- MARÇO:START -->
+- 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
+<!-- MARÇO:END -->
 ### Abril
 <!-- ABRIL:START -->
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
