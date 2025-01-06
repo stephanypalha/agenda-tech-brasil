@@ -1143,6 +1143,26 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Descrever aplicações e serviços do Microsoft 365",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Confraria Web3 - São Paulo",
               "data": [
                 "07"
@@ -1191,6 +1211,36 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+            "nome": "Descrever as capacidades de segurança e conformidade do Microsoft 365",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305131240",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Microsoft 365 Para Elas: próximos passos em seu plano de estudos!",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304257628",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
@@ -1198,6 +1248,26 @@
           "mes": "fevereiro",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações",
+              "data": [
+                "03"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304541695",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Hack In Cariri - 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344",
+              "cidade": "Juazeiro Do Norte",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
             {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
@@ -1207,6 +1277,48 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "FortalSec - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.fortalsec.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "BSidesRJ - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://bsidesrj.com.br/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Brasília - 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
             }
           ]
         },
@@ -1243,6 +1355,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "BSidesSP - 2025",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://securitybsides.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025",
               "data": [
                 "19",
@@ -1254,6 +1377,32 @@
               "url": "https://sbrc.sbc.org.br/2025",
               "cidade": "Natal",
               "uf": "RN",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SIRENA Conference - 2025",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.instagram.com/sirena.conference/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "junho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Belo Horizonte - 2025",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
               "tipo": "presencial"
             }
           ]
@@ -1279,6 +1428,22 @@
           ]
         },
         {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Florianópolis - 2025",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "setembro",
           "arquivado": false,
           "eventos": [
@@ -1293,6 +1458,16 @@
               "url": "https://sbseg2025.ppgia.pucpr.br/",
               "cidade": "Foz do Iguaçu",
               "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - Rio de Janeiro - 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
               "tipo": "presencial"
             },
             {
@@ -1323,6 +1498,16 @@
                 "27"
               ],
               "url": "https://2025.pythonbrasil.org.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - São Paulo - 2025",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
