@@ -41,6 +41,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
+- 15: [Hacking Na Web Day - Brasília - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Brasília/DF_ ![presencial]
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- MARÇO:END -->
 ### Abril
