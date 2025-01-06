@@ -5,9 +5,11 @@
 
 _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
 
+### A Agenda Tech foi criada por [@pachicodes](https://www.linkedin.com/in/pachicodes/) e é mantida por ela em colacoração com  [@stephan-lopes](https://github.com/stephan-lopes)
+
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
+<a href="#dezembro">Dezembro</a></p>
 
 ## Contribuindo
 
@@ -61,6 +63,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
 - 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
+- 17, 18 e 19: [TDC 2025 SÃO PAULO](https://thedevconf.com/tdc/2025/) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
