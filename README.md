@@ -5,18 +5,15 @@
 
 _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
 
-### A Agenda Tech foi criada por [@pachicodes](https://www.linkedin.com/in/pachicodes/) e é mantida por ela em colacoração com  [@stephan-lopes](https://github.com/stephan-lopes)
-
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#dezembro">Dezembro</a></p>
+<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
 
 ## Contribuindo
 
 **Não encontrou o evento, palestra ou iniciativa que estava procurando?**
 
 Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se você conhece algum evento que acredita ser relevante para estar aqui, convidamos você a adicioná-lo. Está interessado(a) em nos ajudar nisso? [Clique aqui para aprender como incluir novos eventos e ajudar o repositório a crescer!](https://github.com/Abacatinhos/agenda-tech-brasil/blob/master/CONTRIBUTING.md)
-
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
@@ -27,6 +24,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 09: [PHPSP Pub](https://www.meetup.com/php-sp/events/300873764) - _São Paulo/SP_ ![presencial]
 - 13: [Caminhos para uma Carreira em Cloud para Mulheres](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759) ![online]
 - 15: [Princípios básicos e conceitos de nuvem](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854) ![online]
+- 20: [Descrever aplicações e serviços do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937) ![online]
 <!-- JANEIRO:END -->
 ### Fevereiro
 <!-- FEVEREIRO:START -->
@@ -42,6 +40,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
+### Junho
 <!-- JUNHO:START -->
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 <!-- JUNHO:END -->
@@ -91,3 +90,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 [online]: https://img.shields.io/static/v1?label=&message=online&color=purple
 
 <!--LINK DAS BADGES:END-->
+
+<!-- FOOTER:START -->
+<h4 align="center">Projeto mantido por <a href="https://github.com/pachicodes">@pachicodes</a> e <a href="https://github.com/stephan-lopes">@stephan-lopes</a></h4>
+<!-- FOOTER:END -->
