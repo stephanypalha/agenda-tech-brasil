@@ -1463,6 +1463,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Security Leaders Recife 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://securityleaders.com.br/eventos/security-leaders-recife-2025/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - Florianópolis - 2025",
               "data": [
                 "16"
