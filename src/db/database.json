@@ -1386,6 +1386,22 @@
           ]
         },
         {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Mulher Tech Sim Senhor",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.mulhertechsimsr.com.br/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "abril",
           "arquivado": false,
           "eventos": [
