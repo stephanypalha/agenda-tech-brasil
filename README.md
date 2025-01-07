@@ -40,6 +40,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) ![online]
 - 03: [FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações](https://www.meetup.com/fiapmeetups/events/304541695) ![online]
 - 04: [Engenharia de prompt com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305019531) ![online]
+- 06: [Construindo uma Aplicação Web de IA com Python e Flask](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025) ![online]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
