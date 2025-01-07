@@ -1356,6 +1356,17 @@
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Web Summit Rio 2025",
+              "data": [
+                "27",
+                "30"
+              ],
+              "url": "https://rio.websummit.com/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
             }
           ]
         },
