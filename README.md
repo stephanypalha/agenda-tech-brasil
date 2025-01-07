@@ -59,6 +59,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [Mulher Tech Sim Senhor](https://www.mulhertechsimsr.com.br/) - _João Pessoa/PB_ ![presencial]
 - 19 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
+- 20 e 21: [Data World Xperience 2025 - Explore o futuro dos dados além da IA](https://dwxperience.com.br/) - _Florianópolis/SC_ ![presencial]
 <!-- MARÇO:END -->
 
 ### Abril

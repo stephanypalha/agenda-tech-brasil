@@ -1402,6 +1402,23 @@
           ]
         },
         {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Data World Xperience 2025 - Explore o futuro dos dados além da IA",
+              "data": [
+                "20",
+                "21"
+              ],
+              "url": "https://dwxperience.com.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "abril",
           "arquivado": false,
           "eventos": [
