@@ -1249,6 +1249,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "VII Meetup PyData Manaus",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.even3.com.br/pydata-manaus/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "online"
+            },
+            {
               "nome": "FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações",
               "data": [
                 "03"

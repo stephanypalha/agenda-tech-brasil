@@ -9,7 +9,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#dezembro">Dezembro</a></p>
+<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
 
 ## Contribuindo
 
@@ -34,6 +34,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JANEIRO:END -->
 ### Fevereiro
 <!-- FEVEREIRO:START -->
+- 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) - _Manaus/AM_ ![presencial]
 - 03: [FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações](https://www.meetup.com/fiapmeetups/events/304541695) ![online]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
