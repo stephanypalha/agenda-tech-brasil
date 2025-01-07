@@ -9,7 +9,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
+<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
 
 ## Contribuindo
 
@@ -43,6 +43,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Março
 <!-- MARÇO:START -->
 - 15: [Hacking Na Web Day - Brasília - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Brasília/DF_ ![presencial]
+- 19 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- MARÇO:END -->
 ### Abril
