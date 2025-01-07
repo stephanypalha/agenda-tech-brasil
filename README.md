@@ -82,6 +82,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:START -->
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
+- 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
 <!-- ANO2025:END -->
 
