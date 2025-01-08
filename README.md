@@ -31,6 +31,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
 - 22: [Descrever as capacidades de segurança e conformidade do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522) ![online]
 - 22: [FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais](https://www.meetup.com/fiapmeetups/events/305131240) ![online]
+- 23: [Thasfin #20 | Orange Juice | Fcamara](https://guild.host/events/thasfin-20-orange-juice-6p4kc5) - _São Paulo/SP_ ![presencial]
 - 27: [Microsoft 365 Para Elas: próximos passos em seu plano de estudos!](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304257628) ![online]
 - 28: [Construindo agents autônomos inteligentes com Copilot Studio e AI Builder](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188) ![online]
 - 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]
