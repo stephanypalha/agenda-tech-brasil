@@ -1473,6 +1473,19 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Agile Trends 2025 - Inteligência Artificial: agilidade e transformação",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://agiletrendsbr.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "IAM Tech Day São Paulo 2025",
               "data": [
                 "10",
