@@ -27,6 +27,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [Caminhos para uma Carreira em Cloud para Mulheres](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759) ![online]
 - 13: [Live: Dicas de carreira para pessoas desenvolvedoras de RPA](https://www.youtube.com/watch?v=r_n1zam__5g) ![online]
 - 15: [Princípios básicos e conceitos de nuvem](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854) ![online]
+- 16: [Beer for Devs - De volta para 2025: o futuro chegou!](https://eventos.totvs.com/event/beer-for-devs-tendencias-2025?utm_campaign=pautas-organicas-social&utm_source=linkedin-sc&utm_medium=organico&utm_term=institucional-totvs_institucional&utm_content=social_feed_estatico_pauta-4-beer-for-devs-incricao-tendencias-2025_20250109) - _São Paulo/SP_ ![presencial]
 - 20: [Descrever aplicações e serviços do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937) ![online]
 - 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
 - 22: [Descrever as capacidades de segurança e conformidade do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522) ![online]
