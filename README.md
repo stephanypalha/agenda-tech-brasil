@@ -71,6 +71,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01 e 04: [MiniDebConf Maceió 2025](https://maceio.mini.debconf.org/) - _Maceió/AL_ ![presencial]
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
+- 17 e 18: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
@@ -80,6 +81,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
+- 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
 <!-- JULHO:END -->
 ### Agosto
@@ -90,15 +92,20 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Setembro
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
+- 06: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
 - 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
 - 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
-- 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
+- 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
 - 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
+### Novembro
+<!-- NOVEMBRO:START -->
+- 01: [Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
+<!-- NOVEMBRO:END -->
 <!-- ANO2025:END -->
 
 ## TBA: To Be Announced
