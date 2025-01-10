@@ -1445,6 +1445,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "KCD Rio de Janeiro 2025 (Cloud)",
+              "data": [
+                "22"
+              ],
+              "url": "https://community.cncf.io/kcd-brasil/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
             }
           ]
         },
