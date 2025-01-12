@@ -81,8 +81,8 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
-- 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
+- 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
 <!-- JULHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
@@ -113,6 +113,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
 - TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
 - TBA: [Hacking na Web Day - Florianópolis](https://linktr.ee/hackingnawebday) - _Florianópolis/SC_ ![presencial]
+- TBA: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores

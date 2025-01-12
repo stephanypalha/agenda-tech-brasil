@@ -1799,6 +1799,13 @@
       "cidade": "Florianópolis",
       "uf": "SC",
       "tipo": "presencial"
+    },
+    {
+      "nome": "Codecon Universe",
+      "url": "https://codecon.dev/universe",
+      "cidade": "Joinville",
+      "uf": "SC",
+      "tipo": "presencial"
     }
   ]
 }
