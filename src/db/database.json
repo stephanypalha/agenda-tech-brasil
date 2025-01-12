@@ -1540,17 +1540,6 @@
               "nome": "MiniDebConf Maceió 2025",
               "data": [
                 "01",
-                "04"
-              ],
-              "url": "https://maceio.mini.debconf.org/",
-              "cidade": "Maceió",
-              "uf": "AL",
-              "tipo": "presencial"
-            },
-            {
-              "nome": "MiniDebConf Maceió 2025",
-              "data": [
-                "01",
                 "02",
                 "03",
                 "04"
