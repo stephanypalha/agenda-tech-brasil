@@ -1615,6 +1615,17 @@
               "cidade": "Maceió",
               "uf": "AL",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Codecon Summit",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://codecon.dev/summit",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },
@@ -1688,7 +1699,7 @@
           "arquivado": false,
           "eventos": [
             {
-              "nome": "Python Brasil 2024",
+              "nome": "Python Brasil 2025",
               "data": [
                 "21",
                 "22",
@@ -1750,20 +1761,6 @@
       "cidade": "Porto Alegre",
       "uf": "RS",
       "tipo": "híbrido"
-    },
-    {
-      "nome": "FrontConf Experience 2024 - Mergo",
-      "url": "https://www.mergo.com.br/eventos/frontconfxp/",
-      "cidade": "",
-      "uf": "",
-      "tipo": "online"
-    },
-    {
-      "nome": "DevOpsDays Curitiba 2024",
-      "url": "https://devopsdays.org/events/2024-curitiba/welcome/",
-      "cidade": "Curitiba",
-      "uf": "PR",
-      "tipo": "presencial"
     },
     {
       "nome": "XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)",
