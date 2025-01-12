@@ -1806,6 +1806,13 @@
       "cidade": "Joinville",
       "uf": "SC",
       "tipo": "presencial"
+    },
+    {
+      "nome": "Datacon",
+      "url": "https://codecon.dev/datacon",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tipo": "presencial"
     }
   ]
 }

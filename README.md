@@ -114,6 +114,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
 - TBA: [Hacking na Web Day - Florianópolis](https://linktr.ee/hackingnawebday) - _Florianópolis/SC_ ![presencial]
 - TBA: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
+- TBA: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
