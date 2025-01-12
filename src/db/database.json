@@ -1613,6 +1613,17 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Codecon Summit",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://codecon.dev/summit",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025",
               "data": [
                 "20",
@@ -1624,17 +1635,6 @@
               "url": "https://csbc.sbc.org.br/2025/",
               "cidade": "Maceió",
               "uf": "AL",
-              "tipo": "presencial"
-            },
-            {
-              "nome": "Codecon Summit",
-              "data": [
-                "18",
-                "19"
-              ],
-              "url": "https://codecon.dev/summit",
-              "cidade": "Curitiba",
-              "uf": "PR",
               "tipo": "presencial"
             }
           ]
@@ -1797,6 +1797,13 @@
       "nome": "Hacking na Web Day - Florianópolis",
       "url": "https://linktr.ee/hackingnawebday",
       "cidade": "Florianópolis",
+      "uf": "SC",
+      "tipo": "presencial"
+    },
+    {
+      "nome": "Codecon Universe",
+      "url": "https://codecon.dev/universe",
+      "cidade": "Joinville",
       "uf": "SC",
       "tipo": "presencial"
     }
