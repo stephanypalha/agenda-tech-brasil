@@ -1813,6 +1813,13 @@
       "cidade": "São Paulo",
       "uf": "SP",
       "tipo": "presencial"
+    },
+    {
+      "nome": "Select Experience",
+      "url": "https://codecon.dev/select",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tipo": "presencial"
     }
   ]
 }
