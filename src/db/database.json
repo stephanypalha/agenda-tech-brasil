@@ -1435,6 +1435,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevOps Days Goiânia 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://devopsdays.org/events/2025-goiania/welcome/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
               "nome": "SecOps Summit 2025",
               "data": [
                 "19",
