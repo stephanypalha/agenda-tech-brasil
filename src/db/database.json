@@ -1630,6 +1630,18 @@
               "cidade": "Belo Horizonte",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Floripa",
+              "data": [
+                "11",
+                "12",
+                "13"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/florianopolis/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
             }
           ]
         },
