@@ -1486,6 +1486,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Sem Servidor Conf 2025",
+              "data": [
+                "28"
+              ],
+              "url": "https://semservidor.com.br/sem-servidor-conf/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         },
