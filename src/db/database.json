@@ -1488,6 +1488,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "TDC Summit SP",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/summit-sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Sem Servidor Conf 2025",
               "data": [
                 "28"
