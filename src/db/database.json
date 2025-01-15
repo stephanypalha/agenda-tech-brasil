@@ -1771,6 +1771,23 @@
               "tipo": "presencial"
             }
           ]
+        },
+        {
+          "mes": "novembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDC Summit Brasília",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/summit-brasilia/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "híbrido"
+            }
+          ]
         }
       ]
     }
