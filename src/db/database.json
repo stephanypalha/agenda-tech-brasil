@@ -1293,6 +1293,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup Codecon - #12 - Joinville",
+              "data": [
+                "23"
+              ],
+              "url": "https://eventos.codecon.dev/meetup-codecon-joi-12/",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Roda de Conversa Pyladies Manaus",
               "data": [
                 "25"
