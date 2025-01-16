@@ -45,6 +45,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 04: [Engenharia de prompt com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305019531) ![online]
 - 04: [[Front @ Uber] Simulando a entrevista de Depth in Specialization de front-end](https://www.meetup.com/uber-tech-latam/events/305607351/) ![online]
 - 06: [Construindo uma Aplicação Web de IA com Python e Flask](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025) ![online]
+- 06: [[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end](https://www.meetup.com/uber-tech-latam/events/305607442) ![online]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
 - 11: [Crie Testes Unitários e Documentação com GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451) ![online]
 - 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
