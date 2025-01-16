@@ -1789,6 +1789,18 @@
               "cidade": "Belém",
               "uf": "PA",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC SP",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
