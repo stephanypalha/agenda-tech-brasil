@@ -1233,6 +1233,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup Codecon - #09 Florianópolis",
+              "data": [
+                "21"
+              ],
+              "url": "https://eventos.codecon.dev/meetup-codecon-fln-09/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Descrever as capacidades de segurança e conformidade do Microsoft 365",
               "data": [
                 "22"

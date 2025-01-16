@@ -30,6 +30,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 16: [Beer for Devs - De volta para 2025: o futuro chegou!](https://eventos.totvs.com/event/beer-for-devs-tendencias-2025?utm_campaign=pautas-organicas-social&utm_source=linkedin-sc&utm_medium=organico&utm_term=institucional-totvs_institucional&utm_content=social_feed_estatico_pauta-4-beer-for-devs-incricao-tendencias-2025_20250109) - _São Paulo/SP_ ![presencial]
 - 20: [Descrever aplicações e serviços do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937) ![online]
 - 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
+- 21: [Meetup Codecon - #09 Florianópolis](https://eventos.codecon.dev/meetup-codecon-fln-09/) - _Florianópolis/SC_ ![presencial]
 - 22: [Descrever as capacidades de segurança e conformidade do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522) ![online]
 - 22: [FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais](https://www.meetup.com/fiapmeetups/events/305131240) ![online]
 - 22: [Ano Novo do SouJava na Oracle](https://souj.org/jan25) - _São Paulo/SP_ ![híbrido]
