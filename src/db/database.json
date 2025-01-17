@@ -1588,6 +1588,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)",
+              "data": [
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://www.educompbrasil.org/simposio/2025/sbc-eb",
+              "cidade": "Juiz De Fora",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "IAM Tech Day São Paulo 2025",
               "data": [
                 "10",
