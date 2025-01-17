@@ -1595,6 +1595,19 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Computer on the beach",
+              "data": [
+                "02",
+                "03",
+                "04",
+                "05"
+              ],
+              "url": "https://computeronthebeach.com.br/",
+              "cidade": "Itajaí",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Agile Trends 2025 - Inteligência Artificial: agilidade e transformação",
               "data": [
                 "08",
