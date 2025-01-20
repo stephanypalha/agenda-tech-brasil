@@ -1341,6 +1341,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "112º Meetup AWS UG SP [PRESENCIAL] - O Jogo da Inspeção na AWS",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.meetup.com/awsusergroupsp/events/305669500",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
