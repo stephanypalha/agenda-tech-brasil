@@ -39,6 +39,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 23: [Meetup Codecon - #12 - Joinville](https://eventos.codecon.dev/meetup-codecon-joi-12/) - _Joinville/SC_ ![presencial]
 - 25: [Roda de Conversa Pyladies Manaus](https://www.even3.com.br/roda-de-conversa-pyladies-manaus/) - _Manaus/AM_ ![presencial]
 - 27: [Microsoft 365 Para Elas: próximos passos em seu plano de estudos!](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304257628) ![online]
+- 27: [Boa semana web 3 Meetup Online de Segunda-feira](https://www.meetup.com/confrariaweb3/events/305734015) ![online]
 - 28: [Construindo agents autônomos inteligentes com Copilot Studio e AI Builder](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188) ![online]
 - 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]
 <!-- JANEIRO:END -->
