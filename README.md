@@ -51,6 +51,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 03: [FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações](https://www.meetup.com/fiapmeetups/events/304541695) ![online]
 - 04: [Engenharia de prompt com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305019531) ![online]
 - 04: [[Front @ Uber] Simulando a entrevista de Depth in Specialization de front-end](https://www.meetup.com/uber-tech-latam/events/305607351/) ![online]
+- 05: [FIAP Meetup #135 - Da IA generativa aos agentes na Google Cloud](https://www.meetup.com/fiapmeetups/events/305753577) - _São Paulo/SP_ ![híbrido]
 - 06: [Construindo uma Aplicação Web de IA com Python e Flask](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025) ![online]
 - 06: [[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end](https://www.meetup.com/uber-tech-latam/events/305607442) ![online]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]

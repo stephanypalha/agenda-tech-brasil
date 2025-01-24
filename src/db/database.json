@@ -1419,6 +1419,16 @@
               "tipo": "online"
             },
             {
+              "nome": "FIAP Meetup #135 - Da IA generativa aos agentes na Google Cloud",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305753577",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Construindo uma Aplicação Web de IA com Python e Flask",
               "data": [
                 "06"
