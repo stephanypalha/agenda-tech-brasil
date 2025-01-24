@@ -43,11 +43,11 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 27: [Boa semana web 3 Meetup Online de Segunda-feira](https://www.meetup.com/confrariaweb3/events/305734015) ![online]
 - 28: [Construindo agents autônomos inteligentes com Copilot Studio e AI Builder](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188) ![online]
 - 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]
-- 29: [112º Meetup AWS UG SP [PRESENCIAL] - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
+- 29: [112º Meetup AWS UG SP - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
 <!-- JANEIRO:END -->
 ### Fevereiro
 <!-- FEVEREIRO:START -->
-- 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) ![online]
+- 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) - _Manaus/AM_ ![presencial]
 - 03: [FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações](https://www.meetup.com/fiapmeetups/events/304541695) ![online]
 - 04: [Engenharia de prompt com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305019531) ![online]
 - 04: [[Front @ Uber] Simulando a entrevista de Depth in Specialization de front-end](https://www.meetup.com/uber-tech-latam/events/305607351/) ![online]
