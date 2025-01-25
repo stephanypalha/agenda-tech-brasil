@@ -1469,6 +1469,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Golang SP na Uber",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/golangbr/events/305810241/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Colaboração e implantação com o GitHub Copilot",
               "data": [
                 "13"

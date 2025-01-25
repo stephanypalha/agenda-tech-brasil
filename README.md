@@ -43,7 +43,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 27: [Boa semana web 3 Meetup Online de Segunda-feira](https://www.meetup.com/confrariaweb3/events/305734015) ![online]
 - 28: [Construindo agents autônomos inteligentes com Copilot Studio e AI Builder](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188) ![online]
 - 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]
-- 29: [112º Meetup AWS UG SP - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
+- 29: [112º Meetup AWS UG SP [PRESENCIAL] - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
 <!-- JANEIRO:END -->
 ### Fevereiro
 <!-- FEVEREIRO:START -->
@@ -56,6 +56,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 06: [[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end](https://www.meetup.com/uber-tech-latam/events/305607442) ![online]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
 - 11: [Crie Testes Unitários e Documentação com GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451) ![online]
+- 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]
 - 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
 - 13: [FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade](https://www.meetup.com/fiapmeetups/events/305594436/) - _São Paulo/SP_ ![híbrido]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
