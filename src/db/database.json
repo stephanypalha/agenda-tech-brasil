@@ -1363,7 +1363,7 @@
               "tipo": "online"
             },
             {
-              "nome": "112º Meetup AWS UG SP [PRESENCIAL] - O Jogo da Inspeção na AWS",
+              "nome": "112º Meetup AWS UG SP - O Jogo da Inspeção na AWS",
               "data": [
                 "29"
               ],
@@ -1467,6 +1467,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Golang SP na Uber",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/golangbr/events/305810241/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "Colaboração e implantação com o GitHub Copilot",
