@@ -43,7 +43,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 27: [Boa semana web 3 Meetup Online de Segunda-feira](https://www.meetup.com/confrariaweb3/events/305734015) ![online]
 - 28: [Construindo agents autônomos inteligentes com Copilot Studio e AI Builder](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188) ![online]
 - 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]
-- 29: [112º Meetup AWS UG SP [PRESENCIAL] - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
+- 29: [112º Meetup AWS UG SP - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
 <!-- JANEIRO:END -->
 ### Fevereiro
 <!-- FEVEREIRO:START -->
