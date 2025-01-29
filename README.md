@@ -60,6 +60,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
 - 13: [FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade](https://www.meetup.com/fiapmeetups/events/305594436/) - _São Paulo/SP_ ![híbrido]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
+- 17: [DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596) ![online]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 - 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975) ![online]
 - 22: [FortalSec - 2025](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
