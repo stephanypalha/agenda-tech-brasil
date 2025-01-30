@@ -1509,6 +1509,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DP-700: Ingestão e Transformação de Dados no Microsoft Fabric",
               "data": [
                 "18"
@@ -1859,6 +1869,16 @@
               "url": "https://csbc.sbc.org.br/2025/",
               "cidade": "Maceió",
               "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Woman 2025",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.instagram.com/techwoman.rec/",
+              "cidade": "Recife, Pernambuco",
+              "uf": "PE",
               "tipo": "presencial"
             }
           ]
