@@ -1850,6 +1850,16 @@
               "cidade": "Maceió",
               "uf": "AL",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Woman 2025",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.instagram.com/techwoman.rec/",
+              "cidade": "Recife, Pernambuco",
+              "uf": "PE",
+              "tipo": "presencial"
             }
           ]
         },
