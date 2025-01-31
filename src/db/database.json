@@ -1528,7 +1528,7 @@
               "uf": "",
               "tipo": "online"
             },
-            {        
+            {
               "nome": "DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric",
               "data": [
                 "19"
@@ -1547,6 +1547,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Global Power Platform Bootcamp 2025",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security",
