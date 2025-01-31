@@ -1840,6 +1840,17 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Velho Oeste 2025",
+              "data": [
+                "30",
+                "31"
+              ],
+              "url": "https://phpvelhoeste.com.br/",
+              "cidade": "Chapecó",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         },
