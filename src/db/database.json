@@ -1528,7 +1528,7 @@
               "uf": "",
               "tipo": "online"
             },
-            {        
+            {
               "nome": "DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric",
               "data": [
                 "19"
@@ -1819,6 +1819,17 @@
               "url": "https://www.instagram.com/sirena.conference/",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Velho Oeste 2025",
+              "data": [
+                "30",
+                "31"
+              ],
+              "url": "https://phpvelhoeste.com.br/",
+              "cidade": "Chapecó",
+              "uf": "SC",
               "tipo": "presencial"
             }
           ]
