@@ -1818,6 +1818,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Codecon Universe",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://codecon.dev/universe",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025",
               "data": [
                 "19",
