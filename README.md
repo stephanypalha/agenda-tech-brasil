@@ -60,6 +60,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]
 - 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
 - 13: [FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade](https://www.meetup.com/fiapmeetups/events/305594436/) - _São Paulo/SP_ ![híbrido]
+- 14: [AI Cybersecurity Night 2025](https://www.meetup.com/pt-br/dotnet-sao-paulo/events/306010495/) - _São Paulo/SP_ ![presencial]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
 - 17: [DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596) ![online]
 - 18: [DP-700: Ingestão e Transformação de Dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761075) ![online]
