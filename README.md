@@ -56,15 +56,19 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 06: [Construindo uma Aplicação Web de IA com Python e Flask](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025) ![online]
 - 06: [[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end](https://www.meetup.com/uber-tech-latam/events/305607442) ![online]
 - 06: [AI-Driven Pipeline: Construindo uma Solução de Dados com Databricks, GenAI e RAG](https://www.meetup.com/engenharia-dados-academy/events/305898094) - _Brasilia/DF_ ![presencial]
+- 06: [Encontro de Fevereiro no Núcleo de Tecnologia do MTST](https://www.meetup.com/grupy-sp/events/305843538) - _São Paulo/SP_ ![presencial]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
 - 11: [Crie Testes Unitários e Documentação com GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451) ![online]
+- 11: [FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras](https://www.meetup.com/fiapmeetups/events/305991139/) - _São Paulo/SP_ ![presencial]
 - 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]
 - 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
 - 13: [FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade](https://www.meetup.com/fiapmeetups/events/305594436/) - _São Paulo/SP_ ![híbrido]
+- 14: [AI Cybersecurity Night 2025](https://www.meetup.com/pt-br/dotnet-sao-paulo/events/306010495/) - _São Paulo/SP_ ![presencial]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
 - 17: [DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596) ![online]
 - 18: [DP-700: Ingestão e Transformação de Dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761075) ![online]
 - 19: [DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761164) ![online]
+- 19: [AGI Club #1 - Ifood Lab](https://lu.ma/si2mn42p?_bhlid=0d188da526f838daf35ae1a033ae0eca41614623&utm_campaign=o-novo-ataque-da-openai-na-automacao-do-trabalho&utm_medium=newsletter&utm_source=www.datahackers.news) - _Osasco/SP_ ![presencial]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 - 20: [Global Power Platform Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866) ![online]
 - 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975) ![online]
@@ -77,6 +81,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [Mulher Tech Sim Senhor](https://www.mulhertechsimsr.com.br/) - _João Pessoa/PB_ ![presencial]
 - 15: [DevOps Days Goiânia 2025](https://devopsdays.org/events/2025-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
+- 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
 - 20 e 21: [Data World Xperience 2025 - Explore o futuro dos dados além da IA](https://dwxperience.com.br/) - _Florianópolis/SC_ ![presencial]
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
 - 22: [KCD Rio de Janeiro 2025 (Cloud)](https://community.cncf.io/kcd-brasil/) - _Rio De Janeiro/RJ_ ![presencial]
@@ -134,6 +139,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
+- 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 <!-- NOVEMBRO:END -->
 <!-- ANO2025:END -->

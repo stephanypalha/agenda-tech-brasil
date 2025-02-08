@@ -1469,6 +1469,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Encontro de Fevereiro no Núcleo de Tecnologia do MTST",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/grupy-sp/events/305843538",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Excel Weekend 10",
               "data": [
                 "07"
@@ -1487,6 +1497,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305991139/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "Golang SP na Uber",
@@ -1517,6 +1537,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "AI Cybersecurity Night 2025",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/pt-br/dotnet-sao-paulo/events/306010495/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "Hack In Cariri - 2025",
@@ -1557,6 +1587,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "AGI Club #1 - Ifood Lab",
+              "data": [
+                "19"
+              ],
+              "url": "https://lu.ma/si2mn42p?_bhlid=0d188da526f838daf35ae1a033ae0eca41614623&utm_campaign=o-novo-ataque-da-openai-na-automacao-do-trabalho&utm_medium=newsletter&utm_source=www.datahackers.news",
+              "cidade": "Osasco",
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
@@ -1654,6 +1694,16 @@
               "url": "https://www.secopssummit.com.br/",
               "cidade": "Porto Alegre",
               "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether São Paulo",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/306033353",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -2079,6 +2129,16 @@
           "mes": "novembro",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Big Data Brazil Experience 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
             {
               "nome": "TDC Summit Brasília",
               "data": [
