@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checar o repositório
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Obter detalhes do evento da issue
         id: event_details
