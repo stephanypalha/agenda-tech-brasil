@@ -2038,6 +2038,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Bxsec Security Experience",
+              "data": [
+                "23"
+              ],
+              "url": "https://www.instagram.com/bxsec/",
+              "cidade": "Santos",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
