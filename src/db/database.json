@@ -1140,7 +1140,7 @@
       "meses": [
         {
           "mes": "janeiro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "Confraria Web3 - São Paulo",
