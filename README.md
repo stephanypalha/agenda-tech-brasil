@@ -9,7 +9,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
+<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
 
 ## Contribuindo
 
@@ -19,7 +19,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-
 ### Fevereiro
 <!-- FEVEREIRO:START -->
 - 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) - _Manaus/AM_ ![presencial]
@@ -67,6 +66,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Abril
 <!-- ABRIL:START -->
 - 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
+- 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
