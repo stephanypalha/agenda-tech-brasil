@@ -9,7 +9,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
+<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
 
 ## Contribuindo
 
@@ -19,7 +19,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-
 ### Fevereiro
 <!-- FEVEREIRO:START -->
 - 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) - _Manaus/AM_ ![presencial]
@@ -49,6 +48,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 20: [Global Power Platform Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866) ![online]
 - 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975) ![online]
 - 22: [FortalSec - 2025](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
+- 24, 25, 26 e 27: [Escola de Verão 2025 - Unimontes/IFNMG](https://2025.escoladeverao.com.br/) - _Montes Claros/MG_ ![presencial]
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->

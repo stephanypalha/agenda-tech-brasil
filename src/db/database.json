@@ -1647,6 +1647,19 @@
               "cidade": "Fortaleza",
               "uf": "CE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Escola de Verão 2025 - Unimontes/IFNMG",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27"
+              ],
+              "url": "https://2025.escoladeverao.com.br/",
+              "cidade": "Montes Claros",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
