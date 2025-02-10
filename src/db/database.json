@@ -1569,6 +1569,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "GitTogether Fortaleza - Fevereiro",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/306097512",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric",
               "data": [
                 "17"
