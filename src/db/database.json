@@ -1579,6 +1579,19 @@
               "tipo": "online"
             },
             {
+              "nome": "Rcoketseat NLW Connect",
+              "data": [
+                "17",
+                "18",
+                "19",
+                "20"
+              ],
+              "url": "https://rocketseat.com.br/eventos/nlw/convite/veridiana-6753",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DP-700: Ingestão e Transformação de Dados no Microsoft Fabric",
               "data": [
                 "18"
