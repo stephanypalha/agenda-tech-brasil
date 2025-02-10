@@ -1,0 +1,53 @@
+name: Criar PR para Arquivar Agendas e Eventos
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  reviewers: "pachicodes,stephan-lopes"
+
+jobs:
+  archive-events:
+    if: contains(github.event.issue.labels.*.name, 'arquivar')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone do Repositório
+        uses: actions/checkout@v4
+
+      - name: Obter detalhes do mês e ano da issue
+        id: issue_details
+        run: |
+
+          event_info="${{ github.event.issue.body }}"
+
+          get_event_values() {
+            local event_info="$1"
+            local key_name="$2"
+
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^[^:]*: //'
+          }
+
+          extract_abbreviation() {
+              local input="$1"
+              echo "$input" | sed -E 's/.*\(([^)]+)\).*/\1/'
+          }
+
+          capitalize_first_letter() {
+            echo "$1" | awk '{ for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2); }1'
+          }
+
+          archive_month=$(get_event_values "$event_info" 'Mês a ser Arquivado')
+          archive_year=$(get_event_values "$event_info" 'Ano do Mês a ser Arquivado / Ano a ser arquivado')
+
+          if [[ $archive_month == "_No response_" ]]; then
+            archive_month=""
+          fi
+
+          echo "archive_month=${archive_month}" >> $GITHUB_ENV
+          echo "archive_year=${archive_year}" >> $GITHUB_ENV
+      
