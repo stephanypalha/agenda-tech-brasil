@@ -42,6 +42,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
 - 15: [GitTogether Fortaleza - Fevereiro](https://www.meetup.com/gittogether-brasil/events/306097512) - _Fortaleza/CE_ ![presencial]
 - 17: [DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596) ![online]
+- 17, 18, 19 e 20: [Rcoketseat NLW Connect](https://rocketseat.com.br/eventos/nlw/convite/veridiana-6753) ![online]
 - 18: [DP-700: Ingestão e Transformação de Dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761075) ![online]
 - 19: [DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761164) ![online]
 - 19: [AGI Club #1 - Ifood Lab](https://lu.ma/si2mn42p?_bhlid=0d188da526f838daf35ae1a033ae0eca41614623&utm_campaign=o-novo-ataque-da-openai-na-automacao-do-trabalho&utm_medium=newsletter&utm_source=www.datahackers.news) - _Osasco/SP_ ![presencial]
