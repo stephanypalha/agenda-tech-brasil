@@ -1,11 +1,14 @@
 <p class="header" align="center">
  <img width="150px" src="https://raw.githubusercontent.com/Abacatinhos/agenda-tech-brasil/main/assets/abacatinhos.svg" align="center" alt="GitHub Readme Stats" />
- <h1 align="center">Eventos Tech Brasil</h1> 
+ <h1 align="center">Agenda Tech Brasil</h1> 
 </p>
+
+> [!NOTE]  
+> Em colaboração com o [fabiobrasileiroo](https://github.com/fabiobrasileiroo), agora também estamos disponíveis na versão web! 🎉 [Confira o novo site aqui](https://agenda-tech-brasil-site.js.org/).
 
 _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
 
-### A Agenda Tech foi criada por [@pachicodes](https://www.linkedin.com/in/pachicodes/) e é mantida por ela em colaboração com  [@stephan-lopes](https://github.com/stephan-lopes)
+**A Agenda Tech foi criada por [@pachicodes](https://www.linkedin.com/in/pachicodes/) e é mantida por ela em colaboração com  [@stephan-lopes](https://github.com/stephan-lopes)**
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
@@ -38,6 +41,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]
 - 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
 - 13: [FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade](https://www.meetup.com/fiapmeetups/events/305594436/) - _São Paulo/SP_ ![híbrido]
+- 13: [Elastic & Apache Kafka® no Brasil](https://www.meetup.com/elastic-brasil-virtual/events/305768639/?eventid=305768639) ![online]
 - 14: [AI Cybersecurity Night 2025](https://www.meetup.com/pt-br/dotnet-sao-paulo/events/306010495/) - _São Paulo/SP_ ![presencial]
 - 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
 - 15: [GitTogether Fortaleza - Fevereiro](https://www.meetup.com/gittogether-brasil/events/306097512) - _Fortaleza/CE_ ![presencial]
