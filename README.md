@@ -54,6 +54,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19: [FIAP & PM3 - Dados e Gamificação: estratégias para gerar valor nos negócios](https://www.meetup.com/fiapmeetups/events/306134905) ![online]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 - 20: [Global Power Platform Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866) ![online]
+- 20: [FIAP & PM3 - IA e Dados: estratégias para antecipar clientes e gerar produção](https://www.meetup.com/fiapmeetups/events/306137804) ![online]
 - 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975) ![online]
 - 22: [FortalSec - 2025](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
 - 24, 25, 26 e 27: [Escola de Verão 2025 - Unimontes/IFNMG](https://2025.escoladeverao.com.br/) - _Montes Claros/MG_ ![presencial]
