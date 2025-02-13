@@ -1622,6 +1622,16 @@
               "tipo": "online"
             },
             {
+              "nome": "FIAP & PM3 - Liderança e Tecnologia: habilidades estratégicas para 2025",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306121586",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric",
               "data": [
                 "19"
@@ -1640,6 +1650,16 @@
               "cidade": "Osasco",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "FIAP & PM3 - Dados e Gamificação: estratégias para gerar valor nos negócios",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306134905",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "Meetup DevParaná Cascavel",
@@ -1667,6 +1687,16 @@
                 "20"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FIAP & PM3 - IA e Dados: estratégias para antecipar clientes e gerar produção",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306137804",
               "cidade": "",
               "uf": "",
               "tipo": "online"
