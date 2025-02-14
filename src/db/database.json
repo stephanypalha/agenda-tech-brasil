@@ -2283,13 +2283,6 @@
   ],
   "tba": [
     {
-      "nome": "TDC Summit Brasília",
-      "url": "https://thedevconf.com/tdc/2024/summit-brasilia/",
-      "cidade": "Brasília",
-      "uf": "DF",
-      "tipo": "híbrido"
-    },
-    {
       "nome": "TDC Summit Recife",
       "url": "https://thedevconf.com/tdc/2024/summit-recife/",
       "cidade": "Recife",
