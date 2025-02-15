@@ -1751,6 +1751,16 @@
               "tipo": "online"
             },
             {
+              "nome": "São Paulo | Global AI Bootcamp 2025",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - Brasília - 2025",
               "data": [
                 "15"
