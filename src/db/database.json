@@ -1741,6 +1741,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
               "data": [
                 "12"
