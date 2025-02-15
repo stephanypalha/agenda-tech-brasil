@@ -1824,6 +1824,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Desenvolvimento de Agentes Inteligentes com AI, C#, RAG, Devprime e Azure OpenAI",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306159218",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "BSidesRJ - 2025",
               "data": [
                 "22"
