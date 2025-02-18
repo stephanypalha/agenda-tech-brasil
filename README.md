@@ -147,6 +147,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
 - TBA: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
 - TBA: [Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
+- TBA: [Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher](https://www.meetup.com/women-techmakers-curitiba/events/305753276) - _Curitiba/PR_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
