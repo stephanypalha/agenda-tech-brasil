@@ -1763,6 +1763,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "[Ingá.php] O poder das métricas para times de engenharia",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/developerparana/events/306254879",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },

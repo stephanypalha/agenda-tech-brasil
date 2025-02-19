@@ -62,6 +62,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 22: [FortalSec - 2025](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
 - 24, 25, 26 e 27: [Escola de Verão 2025 - Unimontes/IFNMG](https://2025.escoladeverao.com.br/) - _Montes Claros/MG_ ![presencial]
 - 26: [FIAP - Masterclass Tech Forward 2025: inovações que estão moldando o mundo](https://www.meetup.com/fiapmeetups/events/306221222) - _São Paulo/SP_ ![presencial]
+- 27: [[Ingá.php] O poder das métricas para times de engenharia](https://www.meetup.com/developerparana/events/306254879) - _Maringá/PR_ ![presencial]
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
