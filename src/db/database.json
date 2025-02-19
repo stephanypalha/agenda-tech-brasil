@@ -2285,6 +2285,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "PGConf Brasil 2025",
+              "data": [
+                "03",
+                "04",
+                "05"
+              ],
+              "url": "https://2025.pgconf.com.br/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - Rio de Janeiro - 2025",
               "data": [
                 "13"
