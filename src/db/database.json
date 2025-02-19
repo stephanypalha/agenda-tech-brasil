@@ -1851,6 +1851,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Receitas de arquitetura para aplicativos alimentados por IA",
+              "data": [
+                "17"
+              ],
+              "url": "https://aka.ms/bia/reactorsp",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado",
               "data": [
                 "18"
