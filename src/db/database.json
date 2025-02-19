@@ -1763,6 +1763,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Mulheres em IA no Microsoft Reactor",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305899912",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
