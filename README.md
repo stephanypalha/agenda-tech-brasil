@@ -81,8 +81,8 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12: [DevPR na Estrada: Curitiba](https://www.sympla.com.br/evento/devpr-na-estrada-curitiba/2830491) - _Curitiba/PR_ ![presencial]
 - 12: [DevPR na Estrada: Maringá](https://www.sympla.com.br/evento/devpr-na-estrada-maringa/2830417) - _Maringá/PR_ ![presencial]
 - 12: [DevPR na Estrada: Cianorte](https://www.sympla.com.br/evento/devpr-na-estrada-cianorte/2830574) - _Cianorte/PR_ ![presencial]
-- 13: [DevPR na Estrada: Ponta Grossa](https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493) - _Ponta Grossa/PR_ ![presencial]
 - 13: [DevPR na Estrada: Umuarama](https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573) - _Umuarama/PR_ ![presencial]
+- 13: [DevPR na Estrada: Ponta Grossa](https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493) - _Ponta Grossa/PR_ ![presencial]
 - 13: [DevPR na Estrada: Londrina](https://www.sympla.com.br/evento/devpr-na-estrada-gdg-londrina-meetup-londrina/2830481) - _Londrina/PR_ ![presencial]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
 - 14: [Global AI Bootcamp 2025](https://aka.ms/globalaibootcampsp2025) ![online]
@@ -135,6 +135,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JULHO:START -->
 - 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
 - 18 e 19: [Codecon Summit 25](https://eventos.codecon.dev/codecon-summit-25/) - _Curitiba/PR_ ![presencial]
+- 19: [CajuSec](https://www.cajusec.com.br) - _Aracaju/SE_ ![presencial]
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
 - 26: [Tech Woman 2025](https://www.instagram.com/techwoman.rec/) - _Recife, Pernambuco/PE_ ![presencial]
 <!-- JULHO:END -->
