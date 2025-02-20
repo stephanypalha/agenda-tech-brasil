@@ -70,6 +70,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MARÇO:START -->
 - 10: [Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578) ![online]
 - 10: [DevPR na Estrada: Pato Branco](https://www.sympla.com.br/evento/devpr-na-estrada-pato-branco/2830576?utm_medium=social&utm_source=linktree&utm_campaign=pato+branco+-+10%2f03&referrer=linktr.ee) - _Pato Branco/PR_ ![presencial]
+- 10: [DevPR na Estrada: Cascavel](https://www.sympla.com.br/evento/devpr-na-estrada-cascavel/2830476?utm_medium=social&utm_source=linktree&utm_campaign=cascavel+-+10%2f03&referrer=linktr.ee) - _Cascavel/PR_ ![presencial]
 - 12: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207) ![online]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
 - 14: [Global AI Bootcamp 2025](https://aka.ms/globalaibootcampsp2025) ![online]
@@ -115,6 +116,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:START -->
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
+- 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->

@@ -1821,6 +1821,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevPR na Estrada: Cascavel",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-cascavel/2830476?utm_medium=social&utm_source=linktree&utm_campaign=cascavel+-+10%2f03&referrer=linktr.ee",
+              "cidade": "Cascavel",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
               "data": [
                 "12"
@@ -2226,6 +2236,18 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Python Nordeste 2025",
+              "data": [
+                "20",
+                "21",
+                "22"
+              ],
+              "url": "https://2025.pythonnordeste.org/",
+              "cidade": "Teresina",
+              "uf": "PI",
+              "tipo": "presencial"
             }
           ]
         },
