@@ -1783,7 +1783,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
-
+            },
+            {
+              "nome": "FIAP #140 - XP Inc: a importância dos profissionais tech no mercado financeiro",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306262763",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
