@@ -1981,6 +1981,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Campo Mourão",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-campo-mourao/2830570",
+              "cidade": "Campo Mourão",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - Brasília - 2025",
               "data": [
                 "15"

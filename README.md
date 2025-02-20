@@ -86,6 +86,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [DevPR na Estrada: Londrina](https://www.sympla.com.br/evento/devpr-na-estrada-gdg-londrina-meetup-londrina/2830481) - _Londrina/PR_ ![presencial]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
 - 14: [Global AI Bootcamp 2025](https://aka.ms/globalaibootcampsp2025) ![online]
+- 14: [DevPR na Estrada: Campo Mourão](https://www.sympla.com.br/evento/devpr-na-estrada-campo-mourao/2830570) - _Campo Mourão/PR_ ![presencial]
 - 15: [Hacking Na Web Day - Brasília - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Brasília/DF_ ![presencial]
 - 15: [Mulher Tech Sim Senhor](https://www.mulhertechsimsr.com.br/) - _João Pessoa/PB_ ![presencial]
 - 15: [DevOps Days Goiânia 2025](https://devopsdays.org/events/2025-goiania/welcome/) - _Goiânia/GO_ ![presencial]
