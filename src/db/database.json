@@ -1881,6 +1881,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Francisco Beltrão",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-francisco-beltrao/2830575",
+              "cidade": "Francisco Beltrão",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Toledo",
               "data": [
                 "12"
