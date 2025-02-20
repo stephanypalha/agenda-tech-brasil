@@ -1871,6 +1871,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Ponta Grossa",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493",
+              "cidade": "Ponta Grossa",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "São Paulo | Global AI Bootcamp 2025",
               "data": [
                 "14"
