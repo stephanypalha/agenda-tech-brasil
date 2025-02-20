@@ -64,7 +64,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 26: [FIAP - Masterclass Tech Forward 2025: inovações que estão moldando o mundo](https://www.meetup.com/fiapmeetups/events/306221222) - _São Paulo/SP_ ![presencial]
 - 27: [[Ingá.php] O poder das métricas para times de engenharia](https://www.meetup.com/developerparana/events/306254879) - _Maringá/PR_ ![presencial]
 - 27: [Mulheres em IA no Microsoft Reactor](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305899912) ![online]
-
+- 27: [FIAP #140 - XP Inc: a importância dos profissionais tech no mercado financeiro](https://www.meetup.com/fiapmeetups/events/306262763) - _São Paulo/SP_ ![presencial]
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
@@ -114,7 +114,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:START -->
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
-- 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
