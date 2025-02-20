@@ -1831,6 +1831,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevPR na Estrada: Guarapuava",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-guarapuava/2830564",
+              "cidade": "Guarapuava",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Dois Vizinhos",
               "data": [
                 "11"
