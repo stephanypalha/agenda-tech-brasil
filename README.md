@@ -82,6 +82,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12: [DevPR na Estrada: Maringá](https://www.sympla.com.br/evento/devpr-na-estrada-maringa/2830417) - _Maringá/PR_ ![presencial]
 - 12: [DevPR na Estrada: Cianorte](https://www.sympla.com.br/evento/devpr-na-estrada-cianorte/2830574) - _Cianorte/PR_ ![presencial]
 - 13: [DevPR na Estrada: Ponta Grossa](https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493) - _Ponta Grossa/PR_ ![presencial]
+- 13: [DevPR na Estrada: Umuarama](https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573) - _Umuarama/PR_ ![presencial]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
 - 14: [Global AI Bootcamp 2025](https://aka.ms/globalaibootcampsp2025) ![online]
 - 15: [Hacking Na Web Day - Brasília - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Brasília/DF_ ![presencial]

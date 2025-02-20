@@ -1881,16 +1881,6 @@
               "tipo": "online"
             },
             {
-              "nome": "DevPR na Estrada: Ponta Grossa",
-              "data": [
-                "13"
-              ],
-              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493",
-              "cidade": "Ponta Grossa",
-              "uf": "PR",
-              "tipo": "presencial"
-            },
-            {
               "nome": "DevPR na Estrada: Francisco Beltrão",
               "data": [
                 "12"
@@ -1937,6 +1927,26 @@
               ],
               "url": "https://www.sympla.com.br/evento/devpr-na-estrada-cianorte/2830574",
               "cidade": "Cianorte",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Umuarama",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573",
+              "cidade": "Umuarama",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Ponta Grossa",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493",
+              "cidade": "Ponta Grossa",
               "uf": "PR",
               "tipo": "presencial"
             },
