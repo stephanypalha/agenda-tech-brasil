@@ -1831,6 +1831,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevPR na Estrada: Ivaiporã",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-ivaipora/2836417",
+              "cidade": "Ivaiporã",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Foz do Iguaçu",
               "data": [
                 "11"
@@ -1877,6 +1887,56 @@
               ],
               "url": "https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493",
               "cidade": "Ponta Grossa",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Francisco Beltrão",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-francisco-beltrao/2830575",
+              "cidade": "Francisco Beltrão",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Toledo",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-toledo/2830488",
+              "cidade": "Toledo",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Curitiba",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-curitiba/2830491",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Maringá",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-maringa/2830417",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Cianorte",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-cianorte/2830574",
+              "cidade": "Cianorte",
               "uf": "PR",
               "tipo": "presencial"
             },
