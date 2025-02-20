@@ -1871,6 +1871,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Umuarama",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573",
+              "cidade": "Umuarama",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "São Paulo | Global AI Bootcamp 2025",
               "data": [
                 "14"
