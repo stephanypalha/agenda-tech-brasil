@@ -1811,6 +1811,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Pato Branco",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-pato-branco/2830576?utm_medium=social&utm_source=linktree&utm_campaign=pato+branco+-+10%2f03&referrer=linktr.ee",
+              "cidade": "Pato Branco",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Cascavel",
               "data": [
                 "10"
@@ -1827,6 +1837,16 @@
               ],
               "url": "https://www.sympla.com.br/evento/devpr-na-estrada-guarapuava/2830564",
               "cidade": "Guarapuava",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR na Estrada: Dois Vizinhos",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-dois-vizinhos/2830579",
+              "cidade": "Dois Vizinhos",
               "uf": "PR",
               "tipo": "presencial"
             },
