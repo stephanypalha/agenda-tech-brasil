@@ -1881,6 +1881,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Toledo",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-toledo/2830488",
+              "cidade": "Toledo",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Curitiba",
               "data": [
                 "12"
