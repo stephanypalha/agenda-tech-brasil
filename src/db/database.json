@@ -2408,6 +2408,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "CajuSec",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.cajusec.com.br",
+              "cidade": "Aracaju",
+              "uf": "SE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025",
               "data": [
                 "20",
