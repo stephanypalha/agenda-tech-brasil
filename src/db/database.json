@@ -1881,6 +1881,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Curitiba",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-curitiba/2830491",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Maringá",
               "data": [
                 "12"
