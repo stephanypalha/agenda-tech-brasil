@@ -69,6 +69,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Março
 <!-- MARÇO:START -->
 - 10: [Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578) ![online]
+- 10: [DevPR na Estrada: Pato Branco](https://www.sympla.com.br/evento/devpr-na-estrada-pato-branco/2830576?utm_medium=social&utm_source=linktree&utm_campaign=pato+branco+-+10%2f03&referrer=linktr.ee) - _Pato Branco/PR_ ![presencial]
 - 10: [DevPR na Estrada: Cascavel](https://www.sympla.com.br/evento/devpr-na-estrada-cascavel/2830476?utm_medium=social&utm_source=linktree&utm_campaign=cascavel+-+10%2f03&referrer=linktr.ee) - _Cascavel/PR_ ![presencial]
 - 12: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207) ![online]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
