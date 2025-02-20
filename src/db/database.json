@@ -2216,6 +2216,18 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Python Nordeste 2025",
+              "data": [
+                "20",
+                "21",
+                "22"
+              ],
+              "url": "https://2025.pythonnordeste.org/",
+              "cidade": "Teresina",
+              "uf": "PI",
+              "tipo": "presencial"
             }
           ]
         },
