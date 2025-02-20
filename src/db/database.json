@@ -1765,7 +1765,6 @@
               "tipo": "presencial"
             },
             {
-
               "nome": "[Ingá.php] O poder das métricas para times de engenharia",
               "data": [
                 "27"
@@ -1774,7 +1773,8 @@
               "cidade": "Maringá",
               "uf": "PR",
               "tipo": "presencial"
-
+            },
+            {
               "nome": "Mulheres em IA no Microsoft Reactor",
               "data": [
                 "27"
