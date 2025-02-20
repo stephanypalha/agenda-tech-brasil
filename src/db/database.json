@@ -1881,6 +1881,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DevPR na Estrada: Maringá",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/devpr-na-estrada-maringa/2830417",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevPR na Estrada: Cianorte",
               "data": [
                 "12"
