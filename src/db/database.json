@@ -2153,6 +2153,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "1º Encontro de Mulheres em Tecnologia no Cerrado - Celebrando a diversidade fem",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.meetup.com/aws-user-group-brasilia/events/306265242/?slug=aws-user-group-brasilia&eventId=305233284&isFirstPublish=true",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
             }
           ]
         },
