@@ -1775,6 +1775,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Pré Carnaval SouJava Campinas + Bosch!",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/soujavacampinas/events/306251209/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "[Ingá.php] O poder das métricas para times de engenharia",
               "data": [
                 "27"
