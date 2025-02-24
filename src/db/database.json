@@ -2061,6 +2061,16 @@
               "tipo": "online"
             },
             {
+              "nome": "International Women's Day Belo Horizonte",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.sympla.com.br/evento/international-women-s-day-belo-horizonte/2815712",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Receitas de arquitetura para aplicativos alimentados por IA",
               "data": [
                 "17"
