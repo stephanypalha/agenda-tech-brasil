@@ -67,6 +67,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 27: [[Ingá.php] O poder das métricas para times de engenharia](https://www.meetup.com/developerparana/events/306254879) - _Maringá/PR_ ![presencial]
 - 27: [Mulheres em IA no Microsoft Reactor](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305899912) ![online]
 - 27: [FIAP #140 - XP Inc: a importância dos profissionais tech no mercado financeiro](https://www.meetup.com/fiapmeetups/events/306262763) - _São Paulo/SP_ ![presencial]
+- 27: [Flutter + Test: Como grandes empresas testam seus apps](https://www.meetup.com/fluttercwb/events/306033204) ![online]
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
