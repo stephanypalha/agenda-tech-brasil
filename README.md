@@ -94,6 +94,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [Mulher Tech Sim Senhor](https://www.mulhertechsimsr.com.br/) - _João Pessoa/PB_ ![presencial]
 - 15: [DevOps Days Goiânia 2025](https://devopsdays.org/events/2025-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 - 15: [Mulheres e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306226593) ![online]
+- 15: [International Women's Day Belo Horizonte](https://www.sympla.com.br/evento/international-women-s-day-belo-horizonte/2815712) - _Belo Horizonte/MG_ ![híbrido]
 - 17: [Receitas de arquitetura para aplicativos alimentados por IA](https://aka.ms/bia/reactorsp) - _São Paulo/SP_ ![presencial]
 - 18: [FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado](https://www.meetup.com/fiapmeetups/events/306105463) - _São Paulo/SP_ ![híbrido]
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
@@ -106,7 +107,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 24: [Microsoft Reactor: Descrever conceitos de segurança, conformidade e identidade](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306160766) ![online]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
-- 29: [1º Encontro de Mulheres em Tecnologia no Cerrado - Celebrando a diversidade fem](https://www.meetup.com/aws-user-group-brasilia/events/306265242/?slug=aws-user-group-brasilia&eventId=305233284&isFirstPublish=true) - _Brasilia/DF_ ![presencial]
+- 29: [1º Encontro de Mulheres em Tecnologia no Cerrado - Celebrando a diversidade fem](https://www.meetup.com/aws-user-group-brasilia/events/306265242/?slug=aws-user-group-brasilia&eventId=305233284&isFirstPublish=true) - _Brasília/DF_ ![presencial]
 <!-- MARÇO:END -->
 ### Abril
 <!-- ABRIL:START -->
