@@ -2244,6 +2244,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DP-700: Introdução à engenharia de dados no Microsoft Fabric",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Agile Trends 2025 - Inteligência Artificial: agilidade e transformação",
               "data": [
                 "08",
