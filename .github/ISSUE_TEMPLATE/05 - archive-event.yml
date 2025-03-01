@@ -21,7 +21,6 @@ body:
       label: "Mês a ser Arquivado"
       description: "Em qual mês irá ser arquivado? (Deixe o mês vazio caso queira arquivar o ano)"
       multiple: false
-      default: 0
       options:
         - Janeiro
         - Fevereiro
