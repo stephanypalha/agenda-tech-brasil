@@ -82,7 +82,7 @@ jobs:
           gh pr create \
           -B main \
           -H ${{ env.branch_name }} \
-          --title "Arquivar: ${{ archive_month != '' && format('{0}/{1}', archive_month, archive_year) || archive_year }}"
+          --title "Arquivar: ${{ env.archive_month != '' && format('{0}/{1}', env.archive_month, env.archive_year) || env.archive_year }}"
           --body "Closes #${{ github.event.issue.number }}" \
           --label arquivar \
           --reviewer "${{ env.reviewers }}"
