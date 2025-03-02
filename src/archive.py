@@ -37,9 +37,9 @@ def archive_month(file_path, month_to_archive):
 
     for eventos in db["eventos"]:
         if eventos["ano"] == year:
-            for mes in eventos["mes"]:
-                if mes == month:
-                    mes["arquivado"]: True
+            for meses in eventos["meses"]:
+                if meses["mes"] == month:
+                    meses["arquivado"] = True
     
     with open(file_path, "w", encoding="utf-8") as f:
       json.dump(db, f, indent=2, ensure_ascii=False)
@@ -65,8 +65,8 @@ def get_event_from_env():
     Recebe informações do evento de variáveis de ambiente configuradas no GitHub Actions.
     """
     return {
-        "ano": int(os.getenv("event_year", 0)),
-        "mes": os.getenv("event_month", "").strip().lower(),
+        "ano": int(os.getenv("archive_year", 0)),
+        "mes": os.getenv("archive_month", "").strip().lower(),
     }
 
 if __name__ == "__main__":

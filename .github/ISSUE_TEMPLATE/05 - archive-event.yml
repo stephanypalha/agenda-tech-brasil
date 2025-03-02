@@ -6,7 +6,7 @@ body:
   - type: dropdown
     id: event_year
     attributes:
-      label: "Ano do Mês a ser Arquivado / Ano a ser arquivado"
+      label: "Ano do Mês a ser Arquivado ou Ano a ser arquivado"
       description: "Qual o ano que o mês irá ser arquivado? (Deixe o mês vazio caso queira arquivar o ano)"
       multiple: false
       default: 0
@@ -18,7 +18,7 @@ body:
   - type: dropdown
     id: event_month
     attributes:
-      label: "Mês a ser Arquivado"
+      label: "Mês para ser Arquivado"
       description: "Em qual mês irá ser arquivado? (Deixe o mês vazio caso queira arquivar o ano)"
       multiple: false
       options:
