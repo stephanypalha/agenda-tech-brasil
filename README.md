@@ -94,6 +94,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 07: [DP-700: Introdução à engenharia de dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703) ![online]
 - 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]
 - 08: [AWS Innovate América Latina](https://aws.amazon.com/pt/events/aws-innovate/latam/generative-ai-data/) ![online]
+- 08: [Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306668977) ![online]
 - 08: [Microsoft Reactor: AI Agents Hackathon Kickoff](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200) ![online]
 - 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
 - 09: [DP-700: Implementar inteligência em tempo real no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396896) ![online]
