@@ -82,6 +82,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 26: [Golang SP na SumUp - #94](https://www.meetup.com/golangbr/events/306322001) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
 - 27: [Platforms Talks no BB - Banco do Brasil](https://events.teams.microsoft.com/event/6a68031a-d667-4160-82b1-c4a1f54b1f65@ea0c2907-38d2-4181-8750-b0b190b60443) ![online]
+- 27: [Leading Tech Sessions: Aplicando DORA Metrics e DevEx na gestão de times](https://lu.ma/m0d534ey) ![online]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
 - 29: [1º Encontro de Mulheres em Tecnologia no Cerrado - Celebrando a diversidade fem](https://www.meetup.com/aws-user-group-brasilia/events/306265242/?slug=aws-user-group-brasilia&eventId=305233284&isFirstPublish=true) - _Brasília/DF_ ![presencial]
 <!-- MARÇO:END -->
