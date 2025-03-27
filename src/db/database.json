@@ -2730,6 +2730,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Porteira 443",
+              "data": [
+                "17"
+              ],
+              "url": "https://porteira443.com",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
               "nome": "BSidesSP - 2025",
               "data": [
                 "17",
