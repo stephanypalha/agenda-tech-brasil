@@ -2887,6 +2887,17 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "UNIVERSO TOTVS 2025",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://eventos.totvs.com/event/universo-totvs-2025",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Python Nordeste 2025",
               "data": [
                 "20",
