@@ -2634,6 +2634,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "FIAP Meetup #146: Tech Beauty: Inovação, tendências e estratégia",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306897553",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+             },
+            {
               "nome": "Uber Tech Latam: Ride to Code - Backend: Last Call",
               "data": [
                 "10"
@@ -2642,6 +2652,7 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+
             },
             {
               "nome": "IAM Tech Day São Paulo 2025",
