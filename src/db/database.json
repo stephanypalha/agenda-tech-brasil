@@ -2529,6 +2529,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Confraria ZN - Business, Bitcoin & web3",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/307012917",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DP-700: Introdução à engenharia de dados no Microsoft Fabric",
               "data": [
                 "07"
