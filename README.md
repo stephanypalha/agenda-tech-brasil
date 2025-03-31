@@ -95,15 +95,18 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 05: [Esquenta CSBC 2025](https://www.instagram.com/p/dglvicfx0wd/?utm_source=ig_web_copy_link&igsh=mzrlodbinwflza==) - _Arapiraca/AL_ ![presencial]
 - 05: [IWD Santos 2025](https://www.sympla.com.br/evento/iwd-santos-2025/2860201) - _Santos/SP_ ![presencial]
+- 05: [Confraria ZN - Business, Bitcoin & web3](https://www.meetup.com/confrariaweb3/events/307012917) - _São Paulo/SP_ ![presencial]
 - 07: [DP-700: Introdução à engenharia de dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703) ![online]
 - 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]
 - 08: [AWS Innovate América Latina](https://aws.amazon.com/pt/events/aws-innovate/latam/generative-ai-data/) ![online]
 - 08: [Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306668977) ![online]
 - 08: [Microsoft Reactor: AI Agents Hackathon Kickoff](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200) ![online]
+- 08: [Clube do Livro R Ladies: Transformar - Vetores lógicos](https://www.meetup.com/rladies-sao-paulo/events/307024751) ![online]
 - 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
 - 09: [DP-700: Implementar inteligência em tempo real no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396896) ![online]
 - 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
 - 10: [FIAP Meetup #146: Tech Beauty: Inovação, tendências e estratégia](https://www.meetup.com/fiapmeetups/events/306897553) - _São Paulo/SP_ ![presencial]
+- 10: [Uber Tech Latam: Ride to Code - Backend: Last Call](https://www.meetup.com/uber-tech-latam/events/306920149) ![online]
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
 - 11: [Microsoft Reactor: Back-End Development Night 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306897959) - _São Paulo/SP_ ![híbrido]
 - 12: [Hacking Na Web Day - Recife - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Recife/PE_ ![presencial]
@@ -112,6 +115,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 16: [Platform Days v2025.1](https://www.platform.rocks) - _São Paulo/SP_ ![presencial]
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
 - 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
+- 24: [Golang SP e Firstbase no Reactor (inscrições a partir de 10/04)](https://www.meetup.com/golangbr/events/306916672) - _São Paulo/SP_ ![presencial]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio
@@ -134,6 +138,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 - 07: [Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data](https://www.meetup.com/azureacademy/events/306775025) ![online]
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
+- 17 e 18: [UNIVERSO TOTVS 2025](https://eventos.totvs.com/event/universo-totvs-2025) - _São Paulo/SP_ ![presencial]
 - 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
