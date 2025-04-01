@@ -38,6 +38,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 08: [Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306668977) ![online]
 - 08: [Microsoft Reactor: AI Agents Hackathon Kickoff](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200) ![online]
 - 08: [Clube do Livro R Ladies: Transformar - Vetores lógicos](https://www.meetup.com/rladies-sao-paulo/events/307024751) ![online]
+- 08: [Leading Tech Sessions: Como medir impacto de iniciativas de Produto e Tech](https://lu.ma/nlsf58mi) ![online]
 - 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
 - 09: [DP-700: Implementar inteligência em tempo real no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396896) ![online]
 - 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
