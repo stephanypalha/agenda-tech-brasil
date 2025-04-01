@@ -1,6 +1,728 @@
 {
   "eventos": [
     {
+      "ano": 2022,
+      "arquivado": true,
+      "meses": [
+        {
+          "mes": "setembro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "RubyConf",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.rubyconf.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "CodeCon",
+              "data": [
+                "22",
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://www.codecon.dev/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
+        },
+        {
+          "mes": "outubro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "Flutter Brasil Conf 2022",
+              "data": [
+                "06"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-curitiba-presents-flutter-brasil-conf-2022/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "online"
+            },
+            {
+              "nome": "Elas por Elas",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT",
+              "cidade": "Santos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Ignite Lab - React",
+              "data": [
+                "10",
+                "11",
+                "12"
+              ],
+              "url": "https://img.shields.io/static/v1?label=&message=online&color=green",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "WomakerCode Meetup",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.youtube.com/watch?v=sIg9KJk-jOY",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Django Girls Teresina",
+              "data": [
+                "15"
+              ],
+              "url": "https://djangogirls.org/en/teresina/",
+              "cidade": "Teresina",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BotCamp - Pyhon para finanças",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://lp.edufinance.com.br/botcamp/?fbclid=IwAR0YnpT1if5q9NMOFs-DluwWEEdEKPc7-e_GzZCuH3EgJkdMCsNJ5EPtHO0",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Explorer Lab - JS DOM",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://explorer-lab.rocketseat.com.br/convite/antonio-10126",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Imersão Full Stack & Full Cycle",
+              "data": [
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://imersao.fullcycle.com.br",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Feministalk Ada Lovelace",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.twitch.tv/morgannadev",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Meetup Cloud Girls - FiberX - Huawei",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Feministalk Ada Lovelace",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.twitch.tv/morgannadev",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Meetup Cloud Girls - FiberX - Huawei",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Android Mobile Week",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://lp.dio.me/ds-android-mobile-week/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Futurecom Digital Week",
+              "data": [
+                "18",
+                "19",
+                "20"
+              ],
+              "url": "https://www.futurecom.com.br/pt/home.html",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Thasfin + Feministech #Hacktoberfest",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/pt-BR/thasfin/events/288750105/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Sysadminas -  Sec4U! Uma jornada em busca da sua flag",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/pt-BR/sysadminas/events/288562412/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "MeteorJS Meetup Brasil",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/pt-BR/meteor-brasil/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "PHP Community Summit",
+              "data": [
+                "20",
+                "21"
+              ],
+              "url": "https://php.locaweb.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "FrontIn Comunidades",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Desenvolvimento Android com Kotlin",
+              "data": [
+                "22"
+              ],
+              "url": "https://kotlinautas.dev/evento/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Hacktoberfest PHB Edition",
+              "data": [
+                "22"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-hacktoberfest-phb-edition/",
+              "cidade": "Parnaíba",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Accenture",
+              "data": [
+                "26"
+              ],
+              "url": "https://flows.beamery.com/accenture/mulheres-universitarias-do-nordeste-br-3v5fbgbj_/0",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "AWS Cloud Experience",
+              "data": [
+                "27"
+              ],
+              "url": "https://pages.awscloud.com/LATAM-field-OE-Cloud-Experience-2022-reg-event.html",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GitHub Field day",
+              "data": [
+                "29"
+              ],
+              "url": "https://githubfieldday.com/brazil2022/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "NLW - Copa",
+              "data": [
+                "31"
+              ],
+              "url": "https://nlw.rocketseat.com.br/convite/antonio-2475",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
+        },
+        {
+          "mes": "novembro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "NLW - Copa",
+              "data": [
+                "01",
+                "02",
+                "03",
+                "04"
+              ],
+              "url": "https://nlw.rocketseat.com.br/convite/antonio-2475",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Imersão React",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.youtube.com/watch?v=35jb4FeQSe4",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "The Developer's Weekend",
+              "data": [
+                "04",
+                "05"
+              ],
+              "url": "https://weekend.developerslife.tech/",
+              "cidade": "Campo Mourão",
+              "uf": "PR",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Afroya Tech Conf 22",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.afroyatechconf.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOps Days Rio de Janeiro",
+              "data": [
+                "05"
+              ],
+              "url": "https://devopsdays.org/events/2022-rio-de-janeiro/welcome/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Potências Negras Tec",
+              "data": [
+                "05"
+              ],
+              "url": "https://vrlps.co/0v4skjl/cp",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "online"
+            },
+            {
+              "nome": "WoMakersCode",
+              "data": [
+                "05"
+              ],
+              "url": "https://womakerscode.org/encontro",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "AWS Community Day in Brasil",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.awscommunityday.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Front Week",
+              "data": [
+                "06",
+                "07",
+                "08",
+                "09"
+              ],
+              "url": "https://materiais.horadecodar.com.br/front-week?fbclid=IwAR1T_X10F2sAJV3-W4nCC5cydK7PdmzJAlzoUmexeSoU7XmjEQXTrwYxC-E",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Imersão React",
+              "data": [
+                "07",
+                "08",
+                "09",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "url": "https://www.alura.com.br/imersao-react?bid=RAMOBWJ",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "CTO Summit",
+              "data": [
+                "08",
+                "09"
+              ],
+              "url": "https://ctosummit.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Rio Innovation Week",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://rioinnovationweek.com.br/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "X Sulcomp 2022",
+              "data": [
+                "09",
+                "10",
+                "11",
+                "12"
+              ],
+              "url": "https://www.even3.com.br/sulcomp2022?even3_orig=events_eventlist",
+              "cidade": "Criciúma",
+              "uf": "SC",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Criptofunk",
+              "data": [
+                "11",
+                "12"
+              ],
+              "url": "https://criptofunk.org/2022-2/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Campus Party Brasil",
+              "data": [
+                "11",
+                "12",
+                "13",
+                "14",
+                "15"
+              ],
+              "url": "https://brasil.campus-party.org/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SWP Talks #12",
+              "data": [
+                "17"
+              ],
+              "url": "https://vamosjuntes.programaria.org/summit2022",
+              "cidade": "Pelotas",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Programaria Summit",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://vamosjuntes.programaria.org/summit2022",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Front in Floripa",
+              "data": [
+                "19"
+              ],
+              "url": "https://frontin.floripa.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Django Girls Parnaíba",
+              "data": [
+                "19"
+              ],
+              "url": "https://djangogirls.org/en/parnaiba/",
+              "cidade": "Parnaíba",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Maratona Feministech",
+              "data": [
+                "20"
+              ],
+              "url": "https://feministech.github.io/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Tempest Academy Conference",
+              "data": [
+                "22",
+                "23"
+              ],
+              "url": "https://www.even3.com.br/tempestacademyconference/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "EXPOTEC2022",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://www.expotec.org.br/2022/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "online"
+            },
+            {
+              "nome": "Innovators Hive no Google Cloud Next",
+              "data": [
+                "25"
+              ],
+              "url": "https://inthecloud.withgoogle.com/innovators-hive-ptbr-22/register.html",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DevFest Cerrado",
+              "data": [
+                "26"
+              ],
+              "url": "https://devfestcerrado.com.br/",
+              "cidade": "Uberlândia",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BHack - 11ª Edição",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://www.bhack.com.br/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Do While 2022",
+              "data": [
+                "30",
+                "31"
+              ],
+              "url": "https://lp.rocketseat.com.br/dowhile?utm_source=Active_Campaing&utm_medium=hotlist&utm_campaign=capture-dowhile-2022&utm_term=email&utm_content=speakers-confirmados&vgo_ee=A3WVd8Ag9YQdYd3bPWjOL9L1pCrMXnLJ9Dc%2F4T7FqlU%3D",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
+        },
+        {
+          "mes": "dezembro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "Do While 2022",
+              "data": [
+                "01"
+              ],
+              "url": "https://lp.rocketseat.com.br/dowhile?utm_source=Active_Campaing&utm_medium=hotlist&utm_campaign=capture-dowhile-2022&utm_term=email&utm_content=speakers-confirmados&vgo_ee=A3WVd8Ag9YQdYd3bPWjOL9L1pCrMXnLJ9Dc%2F4T7FqlU%3D",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "React Conf Brasil 22",
+              "data": [
+                "03"
+              ],
+              "url": "https://reactconf.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Dev Summit V",
+              "data": [
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://www.xpeducacao.com.br/evento/dev-summit",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Dev Summit V",
+              "data": [
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://www.xpeducacao.com.br/evento/dev-summit",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "TDC Future",
+              "data": [
+                "06",
+                "07",
+                "08"
+              ],
+              "url": "https://thedevconf.com/tdc/2022/future/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "HashiTalks: Deploy",
+              "data": [
+                "07",
+                "08"
+              ],
+              "url": "https://www.meetup.com/hashicorp-user-group-paris/events/288631216/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Hack GRRRL",
+              "data": [
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://hackgrrrl.com/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DevOps Days Recife",
+              "data": [
+                "10"
+              ],
+              "url": "https://devopsdays.org/events/2022-recife/welcome/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevFest Sudeste 2022",
+              "data": [
+                "10"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-devfest-sudeste-2022/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevFest Nordeste 2022 - Fortaleza",
+              "data": [
+                "13"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-fortaleza-presents-devfest-nordeste-2022/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "híbrido"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ano": 2024,
       "arquivado": true,
       "meses": [
