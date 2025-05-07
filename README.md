@@ -64,6 +64,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Maio
 <!-- MAIO:START -->
 - 01, 02, 03 e 04: [MiniDebConf Maceió 2025](https://maceio.mini.debconf.org/) - _Maceió/AL_ ![presencial]
+- 05: [Conheça Seus Dados: Da Modelagem à Visualização Eficaz](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307565346/) ![online]
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 06: [Maratona de Certificações Microsoft- online gratuito + vouchers de certificações](https://www.meetup.com/azureacademy/events/307601273) ![online]
 - 07: [GitHub Brasil - Live Especial: Bate Papo com Téo Calvo](https://www.meetup.com/gittogether-brasil/events/307604277) ![online]
