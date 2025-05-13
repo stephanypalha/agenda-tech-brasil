@@ -34,6 +34,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
 - 13: [Meetup de Comunidade: Do desenvolvimento à proteção, construindo aplicações PHP com consciência](https://www.sympla.com.br/evento/meetup-de-comunidade-do-desenvolvimento-a-protecao-construindo-aplicacoes-php-com-consciencia/2945333) - _São Paulo/SP_ ![presencial]
 - 14: [FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências](https://www.meetup.com/fiapmeetups/events/306921593) - _São Paulo/SP_ ![presencial]
+- 14: [FIAP Meetup #148: Feature Engineering com Santander e Databricks.](https://www.meetup.com/fiapmeetups/events/307737668) - _São Paulo/SP_ ![híbrido]
 - 17: [Porteira 443](https://porteira443.com) - _Goiânia/GO_ ![presencial]
 - 17: [GitTogether Fortaleza](https://www.meetup.com/gittogether-brasil/events/307759226) - _Fortaleza/CE_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
