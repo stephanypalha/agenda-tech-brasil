@@ -7215,11 +7215,21 @@
               "tipo": "híbrido"
             },
             {
+
+              "nome": "Escola Livre de IA​: IA Generativa e Agentes de IA Generativa​",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307862978",
+            },
+            {
+
               "nome": "O Melhor do Microsoft Build",
               "data": [
                 "17"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307803937",
+
               "cidade": "",
               "uf": "",
               "tipo": "online"
