@@ -7271,6 +7271,9 @@
                 "12"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307862978",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "O Melhor do Microsoft Build",
@@ -7278,7 +7281,6 @@
                 "17"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307803937",
-
               "cidade": "",
               "uf": "",
               "tipo": "online"
@@ -7372,6 +7374,9 @@
                 "28"
               ],
               "url": "https://developer.microsoft.com/pt-br/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "NodeBR #74 - Redescobrindo o Open Source",
