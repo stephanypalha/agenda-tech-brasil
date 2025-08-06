@@ -7834,6 +7834,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+              "data": [
+                "22",
+                "23",
+                "24",
+                "25",
+                "26"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2025/cbsoft/",
+              "cidade": "Recife",
+              "uf": "PE",
+               },
+            {
+              
               "nome": "Congresso da Cidadania Digital 2025",
               "data": [
                 "24",
